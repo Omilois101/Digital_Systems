@@ -1,0 +1,79 @@
+m255
+K3
+13
+cModel Technology
+dC:\MentorGraphics\modeltech64_10.1b\examples
+Edecode8
+Z0 w1633182569
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\ye20178\Digital_Systems\decoder
+Z4 8C:/Users/ye20178/Digital_Systems/decoder/decode.vhd
+Z5 FC:/Users/ye20178/Digital_Systems/decoder/decode.vhd
+l0
+L5
+VDlNKFkP0OjE:A7]3A?21>3
+Z6 OL;C;10.1b;51
+32
+Z7 !s108 1633183908.837000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ye20178/Digital_Systems/decoder/decode.vhd|
+Z9 !s107 C:/Users/ye20178/Digital_Systems/decoder/decode.vhd|
+Z10 o-work work -2002 -explicit
+Z11 tExplicit 1
+!s100 nb3Fg^X0=2z6mAL32zh:V3
+!i10b 1
+Adecode8_arch
+R1
+R2
+DEx4 work 7 decode8 0 22 DlNKFkP0OjE:A7]3A?21>3
+l13
+L11
+V2M=cEN;]gVl=Q[l>>:B8V3
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 I;PIn_dVWJ_k^0Z5Faj`h1
+!i10b 1
+Etb_decode
+Z12 w1633182569
+Z13 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R1
+R2
+R3
+Z15 8C:/Users/ye20178/Digital_Systems/decoder/tb_decode.vhd
+Z16 FC:/Users/ye20178/Digital_Systems/decoder/tb_decode.vhd
+l0
+L7
+V;Y>OjQf_e[_iDV]`O[BfK1
+!s100 n6O`k]YcLoV]17UHXggIl0
+R6
+32
+!i10b 1
+Z17 !s108 1633183910.212000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/ye20178/Digital_Systems/decoder/tb_decode.vhd|
+Z19 !s107 C:/Users/ye20178/Digital_Systems/decoder/tb_decode.vhd|
+R10
+R11
+Atb_decode_arch
+R13
+R14
+R1
+R2
+DEx4 work 9 tb_decode 0 22 ;Y>OjQf_e[_iDV]`O[BfK1
+l20
+L9
+V_S1AGgQbl`[7^n?UVNm[=0
+!s100 ZKn9b`;BmYPGSnIORfNOm1
+R6
+32
+!i10b 1
+R17
+R18
+R19
+R10
+R11

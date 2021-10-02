@@ -1,0 +1,10 @@
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+
+restart -f
+# No Design Loaded!
+run x ns
+# No Design Loaded!
+view wave
+# .main_pane.wave.interior.cs.body.pw.wf
