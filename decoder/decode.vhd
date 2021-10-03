@@ -19,6 +19,5 @@ y<= "00000001" when A="000" else -- SET BIT 0 HIGH WHEN ENCODED WITH 0
     "00010000" when A="100" else -- SET BIT 1 HIGH WHEN ENCODED WITH 4
     "00100000" when A="101" else -- SET BIT 1 HIGH WHEN ENCODED WITH 5
     "01000000" when A="110" else -- SET BIT 1 HIGH WHEN ENCODED WITH 6
-    "10000000" when A="111" else -- SET BIT 1 HIGH WHEN ENCODED WITH 7
-      
+    "10000000" when A="111" else -- SET BIT 1 HIGH WHEN ENCODED WITH 7      
 end decode8_arch;
