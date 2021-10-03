@@ -12,12 +12,13 @@ architecture decode8_arch of decode8 is
 
 begin
 
-y<= "00000001" when A="000" else -- SET BIT 0 HIGH WHEN ENCODED WITH 0
-    "00000010" when A="001" else -- SET BIT 1 HIGH WHEN ENCODED WITH 1
-    "00000100" when A="010" else -- SET BIT 1 HIGH WHEN ENCODED WITH 2
-    "00001000" when A="011" else -- SET BIT 1 HIGH WHEN ENCODED WITH 3
-    "00010000" when A="100" else -- SET BIT 1 HIGH WHEN ENCODED WITH 4
-    "00100000" when A="101" else -- SET BIT 1 HIGH WHEN ENCODED WITH 5
-    "01000000" when A="110" else -- SET BIT 1 HIGH WHEN ENCODED WITH 6
-    "10000000" when A="111" else -- SET BIT 1 HIGH WHEN ENCODED WITH 7      
+Y <= "00000001" when A <="000" else -- SET BIT 0 HIGH WHEN ENCODED WITH 0
+     "00000010" when A <="001" else -- SET BIT 1 HIGH WHEN ENCODED WITH 1
+     "00000100" when A <="010" else -- SET BIT 1 HIGH WHEN ENCODED WITH 2
+     "00001000" when A <="011" else -- SET BIT 1 HIGH WHEN ENCODED WITH 3
+     "00010000" when A <="100" else -- SET BIT 1 HIGH WHEN ENCODED WITH 4
+     "00100000" when A <="101" else -- SET BIT 1 HIGH WHEN ENCODED WITH 5
+     "01000000" when A <="110" else -- SET BIT 1 HIGH WHEN ENCODED WITH 6
+     "10000000"; -- SET BIT 1 HIGH WHEN ENCODED WITH 7  
+        
 end decode8_arch;

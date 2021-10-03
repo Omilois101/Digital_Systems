@@ -43,3 +43,116 @@ vsim -voptargs=+acc work.tb_decode(tb_decode_arch)
 # 
 # Load interrupted
 # Error loading design
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+# Load canceled
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+# Compile of decode.vhd was successful.
+# Compile of tb_decode.vhd was successful.
+# 2 compiles, 0 failed with no errors. 
+vsim -voptargs=+acc work.tb_decode
+# vsim -voptargs=+acc work.tb_decode 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
+# ** Error: (vsim-3173) Entity 'C:/Users/ye20178/Digital_Systems/decoder/work.decode8' has no architecture.
+# 
+# Load interrupted
+# Error loading design
+vsim -voptargs=+acc work.tb_decode
+# vsim work.tb_decode 
+# ** Note: (vsim-3812) Design is being optimized...
+# 
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.tb_decode(tb_decode_arch)#1
