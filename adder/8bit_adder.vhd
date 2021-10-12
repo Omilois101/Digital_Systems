@@ -12,7 +12,7 @@ entity 8bit_adder is
 end 8bit_adder;
    
 -- Define architecture of 8bit_adder
-architecture brhavioural of 8bit_adder
+architecture behavioural of 8bit_adder
 signal temp : std_logic_vector(8 downto 0 );
 begin 
    comb: process(a,b,cin)
