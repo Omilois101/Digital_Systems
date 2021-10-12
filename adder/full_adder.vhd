@@ -4,7 +4,7 @@ use IEEE.std_logic_1164.all; --
 -- ENTITY
   entity full_adder is 
     port(a,b,cin:in std_logic;
-         s,cout:out std_logic;)
+         s,cout:out std_logic);
   end full_adder;
 -- Architecture 
   Architecture structural of full_adder -- full_adder is the name but structural defines the full_adder
