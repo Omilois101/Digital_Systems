@@ -1,1 +1,8 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEEE.std_logic_unsigned.all
 
+--Define an entitiy 
+entity 8bit_adder is 
+   port( a,b: std_logic_vector(7 downto 0 );
+   
