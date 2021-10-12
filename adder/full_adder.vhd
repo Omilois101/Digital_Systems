@@ -7,7 +7,8 @@ use IEEE.std_logic_1164.all; --
          s,cout:out std_logic);
   end full_adder;
 -- Architecture 
-  Architecture structural of full_adder -- full_adder is the name but structural defines the full_adder
+-- full_adder is the name but structural defines the full_adder    
+  Architecture structural of full_adder 
   begin   -- add the begin 
     s <= ( a xor b)xor cin ;
     cout <= ((a and b) or ( a and cin ) or ( b and cin));
